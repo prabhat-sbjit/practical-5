@@ -11,10 +11,7 @@
     <hr>
     <section><h2>Career Objective</h2>
         <p>To become a skilled web developer and build responsive and attractive websites using HTML, CSS and JavaScript.</p></section>
-
     <hr>
-
-    <!-- Education Table -->
     <section>
         <h2>Education</h2>
         <table border="1" cellpadding="8">
