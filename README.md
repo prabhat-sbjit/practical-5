@@ -1,22 +1,14 @@
 # practical-5
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <title>My Resume</title>
-</head>
 <body>
-
-    <!-- Header Section -->
     <header>
         <h1>Prabhat G</h1>
         <img src="https://i.pinimg.com/1200x/18/60/67/186067c3c81040a68a049b9344b9f995.jpg" alt="Profile Photo" width="150" height="150">
         <p>Email: <a href="mailto:prabhatganar07@email.com">prabhatganar07@email.com</a></p>
         <p>LinkedIn: <a href="https://www.linkedin.com/in/prabhat-ganar-b07a7a383" target="_blank">Visit Profile</a></p>
     </header>
-
     <hr>
-
-    <!-- Career Objective -->
     <section><h2>Career Objective</h2>
         <p>To become a skilled web developer and build responsive and attractive websites using HTML, CSS and JavaScript.</p></section>
 
